@@ -1,0 +1,4 @@
+requests
+pydub
+ffmpeg
+moviepy==1.0.3

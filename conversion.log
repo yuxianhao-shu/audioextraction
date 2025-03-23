@@ -1,0 +1,32 @@
+2025-03-24 00:16:55,225 - INFO - 输出目录已创建: audio
+2025-03-24 00:16:55,226 - INFO - 发现 1 个待处理视频
+2025-03-24 00:16:56,056 - INFO - 转换成功: videos\videotest.mp4 -> audio\videotest.mp3
+2025-03-24 00:16:56,058 - ERROR - 文件删除失败 [videos\videotest.mp4]: [WinError 5] 拒绝访问。: 'videos\\videotest.mp4'
+2025-03-24 00:16:56,058 - INFO - 全部转换任务已完成
+2025-03-24 00:34:12,401 - INFO - 输出目录已创建: audio
+2025-03-24 00:34:12,402 - INFO - 发现 1 个待处理视频
+2025-03-24 00:34:12,403 - WARNING - 文件已存在，跳过转换: audio\videotest.mp3
+2025-03-24 00:34:12,403 - ERROR - 文件删除失败 [videos\videotest.mp4]: [WinError 5] 拒绝访问。: 'videos\\videotest.mp4'
+2025-03-24 00:34:12,403 - INFO - 全部转换任务已完成
+2025-03-24 00:38:55,539 - INFO - 输出目录已创建: audio
+2025-03-24 00:38:55,539 - INFO - 发现 1 个待处理视频
+2025-03-24 00:38:55,540 - WARNING - 文件已存在，跳过转换: audio\videotest.mp3
+2025-03-24 00:38:55,540 - ERROR - 文件删除失败 [videos\videotest.mp4]: [WinError 5] 拒绝访问。: 'videos\\videotest.mp4'
+2025-03-24 00:38:55,540 - INFO - 全部转换任务已完成
+2025-03-24 00:43:31,330 - INFO - 输出目录已创建: audio
+2025-03-24 00:43:31,330 - INFO - 发现 1 个待处理视频
+2025-03-24 00:43:32,108 - INFO - 转换成功: videos\videotest.mp4 -> audio\videotest.mp3
+2025-03-24 00:43:32,108 - ERROR - 文件删除失败 [videos\videotest.mp4]: [WinError 5] 拒绝访问。: 'videos\\videotest.mp4'
+2025-03-24 00:43:32,108 - INFO - 全部转换任务已完成
+2025-03-24 00:45:02,277 - INFO - 输出目录已创建: audio
+2025-03-24 00:45:02,278 - INFO - 发现 1 个待处理视频
+2025-03-24 00:45:03,673 - INFO - 转换成功: videos\videotest.mp4 -> audio\videotest.mp3
+2025-03-24 00:45:03,673 - INFO - 全部转换任务已完成
+2025-03-24 00:46:51,203 - INFO - 输出目录已创建: audio
+2025-03-24 00:46:51,203 - WARNING - 没有找到可转换的视频文件
+2025-03-24 00:47:20,085 - INFO - 输出目录已创建: audio
+2025-03-24 00:47:20,085 - INFO - 发现 1 个待处理视频
+2025-03-24 00:47:21,262 - INFO - 转换成功: videos\videotest.mp4 -> audio\videotest.mp3
+2025-03-24 00:47:21,262 - INFO - 全部转换任务已完成
+2025-03-24 00:59:37,534 - INFO - 输出目录已创建: audio
+2025-03-24 00:59:37,535 - WARNING - 没有找到可转换的视频文件
