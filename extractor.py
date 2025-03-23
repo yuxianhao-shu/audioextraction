@@ -136,7 +136,6 @@ if __name__ == '__main__':
     # 从环境变量读取配置信息
     APP_ID = os.environ.get('XF_APP_ID')
     SECRET_KEY = os.environ.get('XF_SECRET_KEY')
-    print(APP_ID)
     # 检查环境变量是否设置
     if not APP_ID or not SECRET_KEY:
         raise ValueError("""
