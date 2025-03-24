@@ -1,4 +1,5 @@
 requests
+pillow
 pydub
 ffmpeg
 moviepy==1.0.3

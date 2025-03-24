@@ -126,7 +126,7 @@ def process_folder(folder_path, appid, secret_key):
                     #f.write(''.join(text_parts))
                 
                 #print(f"转录完成，已保存到: {output_path}")
-                print("转录结果：",''.join(text_parts))
+                print("转录结果：",''.join(text_parts))#结果是''.join(text_parts)
                 
             except Exception as e:
                 print(f"处理文件 {filename} 时出错: {str(e)}")
